@@ -7,7 +7,7 @@
 * Salt
 * Pepper
 
-0. Boil tofu
-0. Cut into small cubes
-0. Add chopped green scallions
-0. Add salt, pepper, sesame oil, bell pepper
+1. Boil tofu
+1. Cut into small cubes
+1. Add chopped green scallions
+1. Add salt, pepper, sesame oil, bell pepper

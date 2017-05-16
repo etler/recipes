@@ -11,7 +11,7 @@
 * Star Anise
 * Shrimp
 
-0. Add ingredients to pot of water and boil. Add shrimp for 3 minutes.
+1. Add ingredients to pot of water and boil. Add shrimp for 3 minutes.
 
 ## Spring rolls
 

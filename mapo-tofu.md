@@ -10,9 +10,9 @@
 * Salt
 * Sugar
 
-0. Put oil in pan, and add szechuan peppercorn until fragrant, remove
-0. Add garlic until light brown
-0. Add tofu
-0. Add sauce of soy sauce, sesame oil, mushroom powder, water, salt, and sugar
-0. Cook
-0. Add sriracha and sesame oil to taste
+1. Put oil in pan, and add szechuan peppercorn until fragrant, remove
+1. Add garlic until light brown
+1. Add tofu
+1. Add sauce of soy sauce, sesame oil, mushroom powder, water, salt, and sugar
+1. Cook
+1. Add sriracha and sesame oil to taste

@@ -8,7 +8,7 @@
 * 1 pinch nutmeg, plus a little extra
 * 3 whole cloves
 
-0. Combine spices with milk.
-0. Bring to boil.
-0. Strain and add to Jameson in cup.
-0. Top with nutmeg.
+1. Combine spices with milk.
+1. Bring to boil.
+1. Strain and add to Jameson in cup.
+1. Top with nutmeg.

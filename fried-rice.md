@@ -21,7 +21,7 @@
 * scallions
 * onion
 
-0. Add 3% weight of coconut oil to boiling water before adding rice, then refrigerate for 12 hours immediately after.
-0. Crumble 2 cups rice with fingers until separated into individual grains
-0. Heat 1/2 tbsp oil until smoking, then add half rice and cook until pale brown and toasted. Set aside and cook rest of rice
-0. Add all rice back into wok and push to sides
+1. Add 3% weight of coconut oil to boiling water before adding rice, then refrigerate for 12 hours immediately after.
+1. Crumble 2 cups rice with fingers until separated into individual grains
+1. Heat 1/2 tbsp oil until smoking, then add half rice and cook until pale brown and toasted. Set aside and cook rest of rice
+1. Add all rice back into wok and push to sides
