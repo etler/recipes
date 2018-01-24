@@ -8,7 +8,7 @@
 * 2 tbsp hoisin sauce
 * 2 tbsp water
 * 1 tbsp oyster sauce
-* 2 tsp vinegar
+* 1 tsp rice vinegar
 * 1 tsp fish sauce
 * white pepper
 
