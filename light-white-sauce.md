@@ -4,3 +4,5 @@
 * 1 cup milk
 * 1/2 oz Parmesan cheese
 * salt, pepper, onion powder, garlic powder
+
+1. Combine and cook until thickened. Season generously.
