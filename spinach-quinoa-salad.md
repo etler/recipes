@@ -13,11 +13,15 @@
 * 2 cloves garlic, minced (about 2 tsp)
 * Salt
 * Pepper
-* Mango (optional)
-* Edamame (optional)
-* Cilantro (optional)
-* Basil (optional)
-* Sunflower Seeds (optional)
+
+## Substitutions
+
+* Mango
+* Edamame
+* Cilantro
+* Arugula
+* Basil
+* Sunflower Seeds
 
 
 1. Bring 3 cups salted water to a boil in pot. Stir in quinoa. Reduce heat to medium low, cover, and simmer 15 minutes, or until all liquid has been absorbed.
