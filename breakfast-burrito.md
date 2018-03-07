@@ -16,9 +16,10 @@
 * Pepper
 * MSG
 
-1. In a large wok, cook the potatoes or hash browns in oil until well cooked and brown. Season with salt and pepper
+1. Dice potatoes and boil for 5 minutes
+1. In a large pot or wok, cook the potatoes or hash browns in oil until well cooked and brown. Season with salt and pepper
 1. Whisk together 1 dozen eggs and add spices. Season with salt and pepper. Combine with diced veggie sausage
-1. Push potatoes to the edges of the wok and add oil to the center and add the eggs and stir until fully cooked
+1. Push potatoes to the edges of the pot or wok and add oil to the center and add the eggs and stir until fully cooked
 1. Add refried beans and chipotle pepper and mix until thoroughly combined
 1. Turn off heat and add cheese and mix
-1. Wrap 4 oz mixture in tortilla, place in ziploc bag or wrap in parchment paper and store in freezer
+1. Wrap 4 oz mixture in each tortilla, place in paper bag and store in freezer
