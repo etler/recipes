@@ -2,7 +2,7 @@
 
 * 12 Eggs
 * 2 lbs Refried Beans
-* 1 1/2 lbs Hash Browns
+* 1 1/2 lbs potatoes
 * 1/4 lbs Cheddar Cheese
 * 1/4 lbs Cotija Cheese
 * 1/4 can Chipotle Peppers
@@ -11,7 +11,7 @@
 * Oregano
 * Onion Powder
 * Garlic Powder
-* Chili Powser
+* Chili Powder
 * Salt
 * Pepper
 * MSG
