@@ -1,3 +1,5 @@
+# Orzo Carbonara Pasta Salad
+
 * 2 lb orzo pasta
 * 6 cured eggs
 * 2 limes, juiced
@@ -21,7 +23,7 @@
 * Parsley
 
 ## Greek Style
-* 1/2 cup Olives
+* 1/4 cup Olives
 * 8 oz Feta Cheese
 * 1 Cucumber
 * 1 bunch Parsley
