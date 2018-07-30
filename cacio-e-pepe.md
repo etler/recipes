@@ -1,16 +1,15 @@
 # Cacio e Pepe
 
-* 2 tbsp olive oil
-* 4 oz spaghetti
+* 4 oz tagliolini or spaghetti
+* 1.5 oz Parmesan or Pecorino Romano (3/4 cup grated)
 * 1 tbsp butter
-* 1 oz Parmesan cheese
-* pepper
+* 1/4 tbsp ground black pepper
 * salt
-* 1/4 cup pasta water reserved
+* 3/4 cups pasta water reserved
 
-1. Heat pepper in 1 tbsp olive oil for 1 minute until fragrant
-1. Cook pasta until al dente
-1. Add butter and 1 tbsp pasta water to oil until melted
-1. Toss spaghetti in skillet with oil mixture
-1. Add cheese and 1 tbsp olive oil until melted, add pasta water until creamy
-1. Season to taste
+1. Boil pasta in well-salted water and strain about three minutes before it's fully cooked, reserve 3/4 cups of the pasta water
+1. Add fresh cracked pepper, then butter, then reserved pasta water to a large saucepan
+1. Cook the pasta in the sauce until it's al dente and has absorbed most of the liquid
+1. Remove the pan from the heat and stir in cheese a little bit at a time, reserving some for topping later
+1. (Optional) Make a crispy cheese bowl. Spread 3/4 cup cheese in a thin layer on the bottom of a non-stick saucepan and cook for three minutes, or until it becomes pliable. Remove the cheese sheet from the pan with a spatula and use a ramekin or small bowl to mold it.
+1. Top with more cheese.
