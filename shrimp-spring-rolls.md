@@ -23,6 +23,8 @@
 * Cucumber
 * Rice noodles
 
+1. Dip wrappers in warm water for 1-2 seconds.
+
 ## Peanut Sauce
 
 * 1 tbsp peanut butter
