@@ -19,4 +19,4 @@
 1. Add garlic and cook 1 minute
 1. Add coconut milk, brown sugar, and fish sauce
 1. Bring to simmer, add squash and tofu, add more curry paste to taste
-1. Add torn basil
+1. Add torn basil (tear to avoid browning from cutting)
