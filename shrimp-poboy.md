@@ -1,6 +1,6 @@
 # Shrimp Po'Boy
 
-* [Remoulade](./remoulade.md)
+* [Remoulade](./remoulade)
 * Breaded Fried Shrimp
 * French Roll
 * Thinly Sliced Tomato
