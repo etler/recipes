@@ -25,4 +25,4 @@
 1. Heat butter until browned, turn off heat and add sage and stir
 1. Add veggies, sage butter, maple, spices and broth to pot, simmer for 45-60 minutes
 1. Blend together, (optional strain), adjust thickness to desired, balance flavor with vinegar, salt, cayenne, and pepper
-1. Top with creme fraiche
+1. Top with [creme fraiche](./creme-fraiche)
