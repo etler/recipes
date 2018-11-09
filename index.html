@@ -28,7 +28,6 @@
         for (let file of data.filter((file)=>(/.md$/).test(file.path) && file.path !== 'LICENSE.md')) {
           htmlString += `<li><a href="${file.path.replace('.md', '')}">${file.name.replace('.md', '').split('-').join(' ')}</a></li>`;
         }
-        console.log(data);
         document.getElementById('list').innerHTML = htmlString;
       })()
       if (navigator.serviceWorker && !navigator.serviceWorker.controller) {
