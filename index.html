@@ -23,7 +23,7 @@
           '<div class="container-lg px-3 my-5 markdown-body">' +
           '<h1><a href="/recipes/">recipes</a></h1>' +
           '<ul>'
-        for (let file of data) {
+        for (let file of data.filter((file)=>(/.md$/).test(file.path) && file.path !== 'LICENSE.md')) {
           htmlString += `<li><a href="${file.path.replace('.md', '')}">${file.name.replace('.md', '').split('-').join(' ')}</a></li>`;
         }
         console.log(data);
