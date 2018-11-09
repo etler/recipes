@@ -1,4 +1,4 @@
-Tofu Parmesan
+# Tofu Parmesan
 
 * 1 block firm tofu
 * 2 eggs
