@@ -3,7 +3,7 @@
 * 4 oz tagliolini or spaghetti
 * 1.5 oz Parmesan or Pecorino Romano (3/4 cup grated)
 * 1 tbsp butter
-* 1/4 tbsp ground black pepper
+* 1 tsp ground black pepper
 * salt
 * 3/4 cups pasta water reserved
 
