@@ -3,7 +3,7 @@
 ## Sauce
 
 * ginger
-* 2 tbsp soy sauce
+* 2 tbsp mushroom soy sauce
 * 2 tbsp oyster sauce
 * 2 tbsp hoisen sauce
 * 1 tbsp rice vinegar
