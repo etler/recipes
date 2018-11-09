@@ -1,0 +1,15 @@
+{
+  "short_name": "Recipes",
+  "name": "Recipes",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    }
+  ],
+  "start_url": "/recipes/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/recipes/"
+}
