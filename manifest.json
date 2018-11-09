@@ -3,9 +3,14 @@
   "name": "Recipes",
   "icons": [
     {
-      "src": "/recipes/favicon.png",
+      "src": "/recipes/favicon-192.png",
       "type": "image/png",
-      "sizes": "120x120"
+      "sizes": "192x192"
+    },
+    {
+      "src": "/recipes/favicon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "start_url": "/recipes/",
