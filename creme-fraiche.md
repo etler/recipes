@@ -7,3 +7,5 @@
 1. Add cream and cultured buttermilk (with live cultures)
 1. Cover with coffee filter and rubber band and leave out in 70-75 degree temperature for 24 hours
 1. Stir and refrigerate for 24 hours
+
+[source](https://foodwishes.blogspot.com/2011/03/homemade-creme-fraiche-nobodys-ever.html)

@@ -36,3 +36,5 @@
 1. Bring to simmer and cook for 1 1/2 hours, stirring occasionally
 1. Add tequila and masa/cornbread mixture
 1. Serve with cilantro, green onion, avocado, lime wedges, or warm tortillas
+
+[source](https://www.seriouseats.com/recipes/2010/01/the-best-chili-recipe.html)

@@ -8,7 +8,5 @@
 * 4 ripe avocados
 
 1. Put onion and chili in food processor and finely chop.
-
 1. Add lime juice and marinate for 5 minutes
-
 1. Combine all ingredients, add more salt and lime juice to taste

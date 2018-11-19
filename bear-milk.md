@@ -12,3 +12,5 @@
 1. Bring to boil.
 1. Strain and add to Jameson in cup.
 1. Top with nutmeg.
+
+[source](https://www.theawl.com/2012/10/drinks-for-hibernation-how-to-make-bear-milk/)

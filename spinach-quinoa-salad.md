@@ -28,3 +28,5 @@
 1. Remove from heat and cool, covered, in pot.
 1. Lay 5 or 6 spinach leaves flat on top of one another on cutting board. Roll tightly into cylinder, then slice into slivers. Repeat with remaining spinach.
 1. Toss together quinoa, almonds, spinach, cherries, cucumber, chickpeas and red onion in large serving bowl. Whisk together yogurt, olive oil, lemon juice and garlic in small bowl. Pour over salad, and toss to 1. coat. Season to taste with salt and pepper. Chill 30 minutes to allow flavors to develop, then serve.
+
+[source](https://www.vegetariantimes.com/recipes/spinach-quinoa-salad-with-cherries-and-almonds)

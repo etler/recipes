@@ -1,4 +1,4 @@
-https://www.seriouseats.com/recipes/2016/12/the-best-roast-potatoes-ever-recipe.html
+# Crispy Roast Potatoes
 
 * 4 lbs potatoes
 * 1/2 tsp baking soda
@@ -13,3 +13,5 @@ https://www.seriouseats.com/recipes/2016/12/the-best-roast-potatoes-ever-recipe.
 1. Cook garlic and rosemary and pepper in olive oil until garlic begins to turn golden, strain oil
 1. Drain potatoes, leave in pot for 30 seconds to dry, add oil salt, pepper, onion and garlic powder in bowl and toss roughly to beat up outer layer of potatoes
 1. Bake potatoes on baking sheet spread evenly for 20 minutes, flip and cook 30 minutes longer until crispy
+
+[source](https://www.seriouseats.com/recipes/2016/12/the-best-roast-potatoes-ever-recipe.html)

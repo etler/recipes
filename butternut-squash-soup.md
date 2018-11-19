@@ -26,3 +26,5 @@
 1. Add veggies, sage butter, maple, spices and broth to pot, simmer for 45-60 minutes
 1. Blend together, (optional strain), adjust thickness to desired, balance flavor with vinegar, salt, cayenne, and pepper
 1. Top with [creme fraiche](./creme-fraiche)
+
+[source](https://foodwishes.blogspot.com/2015/09/roasted-butternut-squash-soup-legend-of.html)

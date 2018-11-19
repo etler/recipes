@@ -20,3 +20,5 @@
 1. Add coconut milk, brown sugar, and fish sauce
 1. Bring to simmer, add squash and tofu, add more curry paste to taste
 1. Add torn basil (tear to avoid browning from cutting)
+
+[source](https://foodwishes.blogspot.com/2009/11/red-curry-butternut-squash-when-it.html)
