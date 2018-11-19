@@ -1,12 +1,12 @@
 # Mushroom Gravy
 
-* 4 cups broth
-* 6 tbsp butter
-* 6 oz shiitake mushrooms, roughly chopped
-* 6 oz cremini mushrooms, roughly chopped
-* 1/2 oz dried porcini mushrooms
-* 4 tbsp flour
-* 2 tbsp dry sherry
+* 2 cups broth
+* 3 tbsp butter
+* 3 oz shiitake mushrooms, roughly chopped
+* 3 oz cremini mushrooms, roughly chopped
+* 1/4 oz dried porcini mushrooms
+* 2 tbsp flour
+* 1 tbsp dry sherry
 * salt
 * pepper
 
