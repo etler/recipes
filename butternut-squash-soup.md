@@ -7,7 +7,7 @@
 * 1 tbsp Olive oil
 * 6 cups Broth
 * 2 tbsp maple syrup
-* 2 tbsp apple cider vinegar
+* 1 tbsp apple cider vinegar
 * salt
 * pepper
 * cinnamon
