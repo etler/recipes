@@ -43,23 +43,28 @@
     <script>
       const filterFiles = (filter) => {
         return (file) => {
-          const isMarkdown = (/.md$/).test(file.path);
-          const isNotLicense = file.path !== 'LICENSE.md';
-          const isInFilter = file.path.toLowerCase().indexOf(filter.toLowerCase()) !== -1;
+          const filePath = file.path;
+          const fileName = filePath.replace('.md', '').toLowerCase();
+          const isMarkdown = (/.md$/).test(filePath);
+          const isNotLicense = filePath !== 'LICENSE.md';
+          const isInFilter = fileName.indexOf(filter.toLowerCase()) !== -1;
           return isMarkdown && isNotLicense && isInFilter;
         }
       }
       const updateList = (data, filter = '') => {
         let htmlString = '';
         for (let file of data.filter(filterFiles(filter)) ) {
-          htmlString += `<li><a href="${file.path.replace('.md', '')}">${file.name.replace('.md', '').split('-').join(' ')}</a></li>`;
+          const fileName = file.path.replace('.md', '');
+          const fileDisplayName = fileName.split('-').join(' ');
+          htmlString += `<li><a href="${fileName}">${fileDisplayName}</a></li>`;
         }
         document.getElementById('list').innerHTML = htmlString;
       }
       const navigateToFile = (data, filter = '') => {
         files = data.filter(filterFiles(filter));
         if (files.length === 1) {
-          document.location = files[0].path.replace('.md', '')
+          const fileName = files[0].path.replace('.md', '');
+          document.location = fileName;
         }
       }
       (async () => {
