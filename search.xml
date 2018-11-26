@@ -2,5 +2,5 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
    <ShortName>Recipes</ShortName>
    <Description>Search for a recipe.</Description>
-   <Url type="text/html" method="get" template="https://www.timetler.com/recipes/#{searchTerms}"/>
+   <Url type="text/html" method="get" template="https://www.timetler.com/recipes/?{searchTerms}"/>
 </OpenSearchDescription>
