@@ -57,9 +57,12 @@
       (async () => {
         const response = await fetch('https://api.github.com/repos/etler/recipes/contents/');
         const data = await response.json();
-        updateList(data, document.location.hash.replace('#', ''));
+        const search_input = document.getElementById('search_input');
+        const search_value = document.location.hash.replace('#', '');
+        search_input.value = search_value;
+        updateList(data, search_value);
         // Configure search box
-        document.getElementById('search_input').addEventListener('input', (event) => {
+        search_input.addEventListener('input', (event) => {
           updateList(data, event.target.value);
         })
       })()
