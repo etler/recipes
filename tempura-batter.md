@@ -8,7 +8,7 @@
 * 1/2 cup ice cold carbonated water
 
 1. Sift and combine dry ingredients
-1. Whisk egg with vodka, add carbonated water barely combine, add to dry bowl barely combine. Should be bubbly with pockets of dry flour
+1. Whisk egg with vodka, add carbonated water barely combine. Add to dry bowl barely combine by shaking bowl while stirring with chopsticks. Should be bubbly with pockets of dry flour
 
 ## Simple Batter
 
