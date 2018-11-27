@@ -1,20 +1,17 @@
 # Mashed Potatoes
 
-* 3 1/4 lbs russet potatoes
-* 1 lb european butter
-* 1/4 cup hot milk
+* 1 lbs russet potatoes, large cubed
+* 1/2 cup hot milk
+* 3 tbsp butter, room temperature, cubed
 * salt
 * pepper
 * cayenne
 * chives
 
-1. Quarter potatoes and rinse
-1. Put out butter and bring to room temperature
-1. Add potatoes to pot of cold water and season very heavily with salt. Bring to a simmer
-1. When potatoes provide no resistance, drain thoroughly and return to pot on medium low heat
-1. Mash with potato masher, add salt and pepper, then add 1/4 of butter
-1. When smooth switch to whisk and add more butter 1/4 at a time
-1. Whisk in hot milk
-1. Taste and adjust seasoning add dash of cayenne
+1. Rinse cubed potatoes in bowl of cold water 2-3 times until water runs clear
+1. Cook potatoes in boiling water 15 minutes until tender
+1. Strain and rinse potatoes under hot water 30 seconds
+1. Rice potatoes into emptied pot
+1. Add milk and butter, fold gently until combined, season
 
-[source](https://foodwishes.blogspot.com/2013/11/ultimate-mashed-potatoes-not-your-every.html)
+[source](https://www.seriouseats.com/recipes/2010/11/ultra-fluffy-mashed-potatoes-recipe.html)
