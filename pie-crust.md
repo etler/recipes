@@ -1,4 +1,4 @@
-## Pie Crust
+# Pie Crust
 
 * 2 1/2 cups all-purpose flour
 * 1 tbsp granulated sugar
