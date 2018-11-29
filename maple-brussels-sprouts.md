@@ -6,7 +6,7 @@
 * pepper
 * 2 tbsp maple syrup
 
-1. Preheat oven to 375
+1. Preheat oven to 375°F
 1. Prepare brussels sprouts and toss with olive oil and spices
 1. Cook 15 minutes face down on baking tray
 1. Flip and cook 15 more minutes
