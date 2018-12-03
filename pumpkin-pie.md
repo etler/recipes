@@ -15,7 +15,8 @@
 * 1 [pie crust](./pie-crust)
 
 1. Preheat oven to 350°F
-1. Whisk together all ingredients in a large bowl. Pour into cooled crust. Bake until filling is firm around edges but still jiggles slightly in center, 45-50 minutes. If needed, cover edges with foil after 35 minutes to prevent overbrowning
+1. Whisk together all ingredients in a large bowl. Pour into cooled crust, cover crust with foil to prevent over browning
+1. Bake, remove foil after 20 minutes. Continue baking until filling is firm around edges but still jiggles slightly in center, 45-50 minutes total
 1. Cool completely, about 3 hours. Filling will continue to firm up as it cools
 1. Decorate with cutouts
 

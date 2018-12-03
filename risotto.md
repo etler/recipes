@@ -13,9 +13,8 @@
 * Reduced balsamic
 
 1. Prepare stock and keep hot, but not boiling, add herbs
-1. In a large wok
-1. Add olive oil and 1 tbsp butter
-1. Cook scallions and 1/2 tsp salt until fragrant then add mushrooms
+1. In a large wok or pan add olive oil and 1 tbsp butter
+1. Cook scallions and 1/2 tsp salt until fragrant then add mushrooms until cooked
 1. Add 1/2 cup broth, stir until evaporated
 1. Add rice, stir until toasted
 1. Add wine, stir until absorbed
