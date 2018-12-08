@@ -19,7 +19,7 @@
 
 1. In a large pot add bouillon cube to water, cook pasta, drain and set aside.
 1. In same pot, on low heat add olive oil and 2 tbsp of butter. Add the garlic and red pepper flakes until fragrant, do not brown garlic
-1. Add the shrimp and salt and pepper to taste. Cook shrimp until barely turning pink. Add spices and spinach and cook until wilted
+1. Add the shrimp and salt and pepper to taste. Cook shrimp until barely turning pink but still gray. Add spices and spinach and cook until wilted
 1. Add pasta back to the pot with the remaining butter, and Parmesan. Stir until combined
 1. Add lemon juice before serving
 
