@@ -52,7 +52,8 @@
           const fileName = filePath.replace('.md', '').toLowerCase();
           const isMarkdown = (/.md$/).test(filePath);
           const isNotLicense = filePath !== 'LICENSE.md';
-          const isInFilter = fileName.indexOf(filter.toLowerCase()) !== -1;
+          const isInFilter = filter.split(' ')
+            .every((token) => fileName.indexOf(token.toLowerCase()) !== -1)
           return isMarkdown && isNotLicense && isInFilter;
         }
       }
