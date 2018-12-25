@@ -16,3 +16,5 @@
 1. Combine dry ingredients and toss with tofu
 1. Line baking pan with parchment paper
 1. Cook tofu for 30 minutes
+
+[source](https://cookieandkate.com/2016/how-to-make-crispy-baked-tofu/)
