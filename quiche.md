@@ -2,11 +2,11 @@
 
 * 4 eggs, lightly beaten
 * 1 cup half-and-half
-* 2 cups cheeses
+* 2 cups cheeses (\~4 oz) (smoked Gouda/cheddar/Parmesan/mix)
+* 1 caramelized onion
 * 1 deep dish frozen pie crust
 * salt
 * pepper
-* 1 caramelized onion (optional)
 
 1. Preheat oven to 375°F
 1. In a large bowl, whisk eggs, half-and-half, spices
