@@ -2,12 +2,12 @@
 
 * 12 wonton wrappers
 * 3 eggs
-* 150g egg white
-* 1/4 cup milk
+* 3 egg whites (150g)
+* 1 cup half half or milk
 * 3 oz cheese
 * 1 sausage
 * 1/2 bell pepper
-* 1/2 jalapeno
+* 1/2 jalapeño
 * salt
 * pepper
 * garlic powder
