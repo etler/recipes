@@ -78,7 +78,7 @@
         const data = await response.json();
         const search_form = document.getElementById('search_form');
         const search_input = document.getElementById('search_input');
-        const search_value = document.location.search.replace('?', '');
+        const search_value = decodeURIComponent(document.location.search.replace('?', '').replace('+', ' '));
         search_input.value = search_value;
         navigateToFile(data, search_value);
         updateList(data, search_value);
