@@ -6,3 +6,4 @@
 * cilantro
 * cucumber
 * jalapeno
+* sriracha mayo

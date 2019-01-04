@@ -2,14 +2,14 @@
 
 ## Shrimp
 
+* Shrimp, halved
 * Water
 * Wine
 * Bay Leaf
-* Lime Juice
+* Lemon Juice
 * Salt
 * Schechuan Peppercorn
 * Star Anise
-* Shrimp
 
 1. Add ingredients to pot of water and boil. Add shrimp for 1 minutes.
 
@@ -18,9 +18,11 @@
 * Spring roll wrappers
 * Basil
 * Mint
-* Leafy Greens
+* Cilantro
 * Carrots
 * Cucumber
+* Leafy Greens
+* Sprouts
 * Rice noodles
 
 1. Dip wrappers in warm water for 1-2 seconds.
