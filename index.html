@@ -57,9 +57,14 @@
           return isMarkdown && isNotLicense && isInFilter;
         }
       }
+      const sortFiles = (filter) => {
+        return (a, b) => {
+          return a.name.indexOf(filter) < b.name.indexOf(filter) ? -1 : 1;
+        }
+      }
       const updateList = (data, filter = '') => {
         let htmlString = '';
-        for (let file of data.filter(filterFiles(filter)) ) {
+        for (let file of data.filter(filterFiles(filter)).sort(sortFiles(filter))) {
           const fileName = file.path.replace('.md', '');
           const fileDisplayName = fileName.split('-').join(' ');
           htmlString += `<li><a href="${fileName}">${fileDisplayName}</a></li>`;
