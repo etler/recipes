@@ -57,9 +57,19 @@
           return isMarkdown && isNotLicense && isInFilter;
         }
       }
+      const matchScore = (file, filter) => {
+        const fileWords = file.name.replace('.md', '').toLowerCase().split('-');
+        let wordIndex;
+        let letterPosition;
+        for (wordIndex = 0; wordIndex < fileWords.length; wordIndex++) {
+          letterPosition = fileWords[wordIndex].indexOf(filter)
+          if (letterPosition > -1) break;
+        }
+        return wordIndex + letterPosition * 100;
+      }
       const sortFiles = (filter) => {
-        return (a, b) => {
-          return a.name.indexOf(filter) < b.name.indexOf(filter) ? -1 : 1;
+        return (fileA, fileB) => {
+          return matchScore(fileA, filter) < matchScore(fileB, filter) ? -1 : 1;
         }
       }
       const updateList = (data, filter = '') => {
