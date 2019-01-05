@@ -22,7 +22,7 @@
 * Carrots
 * Cucumber
 * Leafy Greens
-* Sprouts
+* Micro Greens
 * Rice noodles
 
 1. Dip wrappers in warm water for 1-2 seconds.
