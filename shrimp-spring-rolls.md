@@ -25,7 +25,9 @@
 * Micro Greens
 * Rice noodles
 
-1. Dip wrappers in warm water for 1-2 seconds.
+1. Dampen working plate
+1. Dip wrappers in warm water for 1-2 seconds
+1. Place spring roll on moist paper towel
 
 ## Peanut Sauce
 
