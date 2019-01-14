@@ -4,7 +4,7 @@
 * 1 cup half-and-half
 * 2 cups cheeses (\~4 oz) (smoked Gouda/cheddar/Parmesan/mix)
 * 1 caramelized onion
-* 1 deep dish frozen pie crust
+* 1 pie crust
 * salt
 * pepper
 

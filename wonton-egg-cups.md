@@ -16,7 +16,7 @@
 * marjoram
 * sage
 
-1. Preheat oven to 350
+1. Preheat oven to 350°F
 1. Saute sausage and peppers, let cool
 1. Combine all ingredients, season generously
 1. Line cupcake tin with wonton wrappers, spoon in 2 tbsp of mixture in each
