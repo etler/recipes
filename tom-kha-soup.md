@@ -6,12 +6,13 @@
 * 4 kaffir lime leaves (or lime zest), crumpled by hand
 * 13.5 ounce can coconut milk
 * 1 lbs tofu
-* 1/2 lbs mushrooms (straw mushrooms), ends removed, sliced
+* 1/2 lbs straw mushrooms (or shiitake), ends removed, sliced
+* 1 carrot
+* 1 sweet potato
 * 1 tbsp fish sauce
 * 1 tbsp fresh lime juice
 * 4 hot red chilis, trimmed, smashed with a knife
 * fresh cilantro leaves and stems
-
 
 1. Combine stock, galangal slices, lemongrass, and lime leaf in a medium saucepan. Bring to simmer over medium heat, reduce heat and simmer for 10 minutes. Discard the galangal and lemongrass
 2. Add coconut milk and increase heat to medium. Add tofu, mushrooms, galangal matchsticks, and lime leaves. Cook until the tofu is completely cooked and the mushrooms are tender, about 5 minutes
