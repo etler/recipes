@@ -9,3 +9,5 @@
 1. Simmer on a very low heat for 20 minutes, do not cover. Stir during last 5 minutes
 1. Put lid on pot, rest for 10 minutes
 1. Serve with accompaniments
+
+[source](http://www.eatingchina.com/recipes/rice-porridge.htm)
