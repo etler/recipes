@@ -19,6 +19,16 @@
 
 [source](https://www.theawl.com/2012/10/drinks-for-hibernation-how-to-make-bear-milk/)
 
+### Whiskey Smash
+
+* 2 shots Bourbon
+* 1 shot simple syrup
+* 1/2 lemon, cut into wedges
+* 3 mint leaves
+
+1. Muddle lemons with simple
+1. Shake all ingredients and ice in shaker
+
 ### Malabar Old Fashioned
 
 * bourbon
@@ -43,8 +53,8 @@
 
 ### Thaiball
 
-* 1 shot Kahlua
-* 1 shot Spiced Rum
+* 1 part Kahlua
+* 1 part Spiced Rum
 * 8 oz [Thai Iced Tea](./thai-iced-tea)
 
 ## Tequila
@@ -64,7 +74,31 @@
 
 ### Espresso Martini
 
-* 2 shots vodka
-* 1 shot Kahlua
-* 1 shot espresso
+* 2 parts vodka
+* 1 part Kahlua
+* 1 part espresso
 
+## Gin
+
+### Tom Collins
+
+* 2 parts gin
+* 1 part lemon juice
+* 1 part simple syrup
+* 4 parts carbonated water
+
+### Cucumber Tom Collins
+
+* 3 parts gin
+* 3 parts lemon juice
+* 2 parts St Germain
+* 2 parts cucumber juice
+* 2 parts sugar syrup
+* top soda
+* two peeled cucumber slices garnish
+
+### Bees Knees
+
+* 5 parts gin
+* 2 part lemon juice
+* 3 parts honey syrup (3 to 1 honey water)
