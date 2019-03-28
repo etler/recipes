@@ -6,7 +6,7 @@
 * 6 tbsp butter
 * 4 cloves garlic, minced
 * 1 teaspoon red pepper flakes
-* 1 lb large shrimp
+* [1 lb garlic shrimp](./garlic-shrimp)
 * 4 cups leafy greens, roughly chopped
 * 1 oz Parmesan cheese
 * 1 tbsp lemon juice

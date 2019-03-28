@@ -21,6 +21,7 @@
 * Carrots
 * Radish
 * Cucumber
+* Shiso
 * Cabbage
 * Watercress
 * Pickled Ginger
