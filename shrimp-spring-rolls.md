@@ -24,7 +24,11 @@
 * Leafy Greens
 * Micro Greens
 * Rice noodles
+* sesame oil
+* lime juice
+* fish sauce
 
+1. Cook rice noodles in leftover shrimp water, then toss with sesame oil, lime juice, and fish sauce
 1. Dampen working plate
 1. Dip wrappers in warm water for 1-2 seconds
 1. Place spring roll on moist paper towel
