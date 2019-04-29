@@ -1,8 +1,8 @@
 # Enchiladas
 
 * 12 corn tortilla
-* 2 cups jack cheese, grated
-* 1 cup queso fresco
+* 8 oz jack cheese, grated
+* 4 oz queso fresco
 * enchilada sauce
 * cilantro
 * Mexican crema
