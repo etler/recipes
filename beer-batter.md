@@ -2,13 +2,14 @@
 
 * 1 cup all-purpose flour
 * 1 1/4 tsp baking powder
-* 1/2 tsp salt
 * 2 tablespoons rice flour or cornstarch or potato starch
 * 1 cup cheap beer
+* salt
+* pepper
 * garlic powder
 * onion powder
 
-1. Whisk together dry ingredients, place in refrigerator
+1. Whisk together dry ingredients, season very generously, place in refrigerator
 1. Dry ingredients as much as possible
 1. Cut ingredients in 1 inch strips
 1. Dust ingredients in rice flower seasoned with salt, garlic, and onion powder, store on crumpled aluminum foil, and put in fridge
