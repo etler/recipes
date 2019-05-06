@@ -57,16 +57,35 @@
 * 1 part Spiced Rum
 * 8 oz [Thai Iced Tea](./thai-iced-tea)
 
+### Old Greg
+* Yoohoo
+* baileys
+* dark rum
+
 ## Tequila
 
 ### Mexican Hipster
 
-* white tequila
+* silver tequila
 * jalapeno, muddled, strained
 * cucumber, muddled
 * lime juice
 * agave nectar
 * soda water, splash
+
+### El Perro Loco
+
+* reposado tequila
+* elderflower liquer
+* grapefruit
+* lime juice
+* triple sec
+
+### Watermelon Margarita
+* silver tequila
+* fresh watermelon
+* lime juice
+* simple syrup
 
 [source](http://milagrosrc.com)
 
