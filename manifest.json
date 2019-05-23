@@ -15,6 +15,7 @@
   ],
   "start_url": "/recipes/",
   "background_color": "#ff473e",
+  "theme_color": "#ff473e",
   "display": "standalone",
   "scope": "/recipes/"
 }
