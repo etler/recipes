@@ -49,6 +49,7 @@
     <script>
       // Filter files by search term match and clean out non recipe files
       const filterFiles = (filter) => {
+        filter = filter.toLowerCase()
         return (file) => {
           const filePath = file.path;
           const fileName = filePath.replace('.md', '').toLowerCase();
@@ -62,6 +63,7 @@
       // Match by closest to start of word then earliest word
       const matchScore = (file, filter) => {
         const fileWords = file.name.replace('.md', '').toLowerCase().split('-');
+        filter = filter.toLowerCase()
         let wordIndex;
         let letterPosition;
         for (wordIndex = 0; wordIndex < fileWords.length; wordIndex++) {
@@ -72,6 +74,7 @@
       }
       // Sort files by best match
       const sortFiles = (filter) => {
+        filter = filter.toLowerCase()
         return (fileA, fileB) => {
           return matchScore(fileA, filter) < matchScore(fileB, filter) ? -1 : 1;
         }
