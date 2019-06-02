@@ -9,11 +9,14 @@
 ## Filling
 
 * Scrambled egg
+* Cabbage
 * Garlic chives
 * Carrot
 * Rehydrated Black fungus
+* Shiitake Mushroom
 * Shrimp
 * Bean thread noodle
 * Salt
 * 5 spice
 * Sesame oil
+* Ginger
