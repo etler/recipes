@@ -1,22 +1,21 @@
 # Healthy Dishes
 
-* Spring Rolls
-* Maple Brussels Sprouts
-* Poke Bowl
-* Chicken Noodle Soup
-* Tom Kha
-* Vegetable Soup
-* Quiche
-* Wonton Egg Cups
-* Fish Tacos
-* Butternut Squash Soup
-* Hot and Sour Soup
-* Shrimp Ceviche
-* Quinoa Salad
-* Tofu Parmesan
-* Potato Leek Soup
-* Steamed Egg
-* Egg Drop Soup
-* Mabo Tofu
-* Shakshouka
-*
+* [Spring Rolls](./shrimp-spring-rolls)
+* [Maple Brussels Sprouts](./maple-brussels-sprouts)
+* [Poke Bowl](./poke-bowl)
+* [Chicken Noodle Soup](./chicken-noodle-soup)
+* [Tom Kha](./tom-kha-soup)
+* [Thai Carrot Soup](./thai-carrot-soup)
+* [Quiche](./quiche)
+* [Wonton Egg Cups](./wonton-egg-cups)
+* [Fish Tacos](./fish-tacos)
+* [Butternut Squash Soup](./butternut-squash-soup)
+* [Hot and Sour Soup](./hot-sour-soup)
+* [Shrimp Ceviche](./shrimp-ceviche)
+* [Quinoa Salad](./quinoa-salad)
+* [Tofu Parmesan](./tofu-parmesan)
+* [Potato Leek Soup](./potato-leek-soup)
+* [Steamed Egg](./chinese-steamed-egg)
+* [Egg Drop Soup](./egg-drop-soup)
+* [Mapo Tofu](./mapo-tofu)
+* [Shakshuka](./shakshuka)

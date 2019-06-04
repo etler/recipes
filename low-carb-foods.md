@@ -1,4 +1,4 @@
-# Low Carb Dishes
+# Low Carb Foods
 
 * tofu
 * dairy
