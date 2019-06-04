@@ -11,7 +11,7 @@
 * [Poke Bowl](./poke-bowl)
 * [Potato Leek Soup](./potato-leek-soup)
 * [Quiche](./quiche)
-* [Quinoa Salad](./quinoa-salad)
+* [Quinoa Salad](./spinach-quinoa-salad)
 * [Shakshuka](./shakshuka)
 * [Shrimp Ceviche](./shrimp-ceviche)
 * [Spring Rolls](./shrimp-spring-rolls)
