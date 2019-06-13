@@ -12,5 +12,6 @@
 1. Add pine nuts and crush
 1. Add as much cheese as fits and mix in
 1. Add olive oil a tbsp at a time and mix in
+1. To add to pasta, keep raw and mix without heat
 
 [source](https://www.youtube.com/watch?v=6-dOZezSwwM)
