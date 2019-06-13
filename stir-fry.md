@@ -1,7 +1,7 @@
 # Garlic Sauce
 
-* 3 cloves garlic, smashed and minced
-* 1/2 inch ginger, smashed and minced
+* 3 cloves garlic, crushed in mortar and pestle
+* 1/2 inch ginger, crushed in mortar and pestle
 * 1/4 tsp salt
 * 1/4 tsp sugar
 * 1/2 tsp corn starch
@@ -16,7 +16,7 @@
 1. Fry for another 15-45 seconds then remove
 
 # Ginger Sauce
-* 1 inch ginger, smashed and minced
+* 1 inch ginger, crushed in mortar and pestle
 * 1/4 tsp salt
 * 1/2 tsp sugar
 * 1/2 tsp corn starch
