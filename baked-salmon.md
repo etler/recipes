@@ -8,15 +8,21 @@
 1. Reduce oven temperature to 300°F and place salmon skin side down on baking sheet
 1. Bake 15 minutes, until springy but not hard or mushy
 
+[source](https://www.americastestkitchen.com/recipes/4127-oven-roasted-salmon)
+
 ## Dill Sauce
 
 * handful of dill
 * 1/2 cup creme fraiche
-* 1 clove garlic
+* 1 clove garlic, crushed in mortar and pestle
 * 1 tbsp lemon juice
 * olive oil
+* salt
+* pepper
 
 1. Apply dill sauce after baking, add extra dill on top to garnish
+
+[source](https://seafoodfromnorway.co.uk/recipes/salmon/norwegian-salmon-with-dill-sauce-/)
 
 ## Miso Glaze
 
@@ -26,6 +32,8 @@
 * hot sauce
 
 1. Apply miso glaze before baking salmon
+
+[source](https://foodwishes.blogspot.com/2011/10/miso-maple-glazed-salmon-canadian.html)
 
 ## Herb Crusted
 * 1 garlic clove, sliced
