@@ -3,7 +3,7 @@
 * 1 large bunch basil (4-5 oz), preferably flowering
 * 2 oz Parmesan, finely grated
 * 3 tbsp pine nuts, raw
-* 4-6 cloves garlic
+* 4 cloves garlic
 * 1/2 cup olive oil
 * 1/4 tsp kosher salt
 
