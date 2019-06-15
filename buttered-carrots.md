@@ -11,3 +11,5 @@
 1. Turn to low, cook 15-20 minutes
 1. Remove lid, add pepper, cook until liquid is evaporated, 5 minutes
 1. Add chives, season
+
+[source](https://www.amazon.com/Feast-Ice-Fire-Official-Companion/dp/0345534492)
