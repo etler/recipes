@@ -3,7 +3,7 @@
 * 4 eggs, lightly beaten
 * 1 cup half-and-half
 * 2 cups cheeses (\~4 oz) (smoked Gouda/cheddar/Parmesan/mix)
-* 1 caramelized onion
+* [1 caramelized onion](./carmelized-onions)
 * 1 pie crust
 * salt
 * pepper
