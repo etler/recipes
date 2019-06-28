@@ -4,8 +4,8 @@
 * few pieces dried black fungus, rehydrated, julienned
 * 1/2 package soft tofu, julienned
 * 2 eggs, beaten
-* 1/3 cup carrot, julienne
-* 1 inch ginger, minced
+* 1/2 carrot, julienne
+* 1/2 inch ginger, minced
 * 4 cups broth
 * 2 tbsp cornstarch
 * 2 tbsp water
