@@ -7,13 +7,15 @@
 * 1/4 egg yolk
 * 1 tsp salt
 * pepper
+* garlic powder
 * cayenne
 * chives, minced
 
 ## Add Ins
-* Blue Cheese
-* Veggie Sausage
-
+* blue cheese
+* veggie sausage
+* grilled broccoli
+* sour cream
 
 1. Preheat oven to 400°F, cook potatoes for 1 hour
 1. Cut off top third of potatoes and scoop out flesh, place potato top skin inside bottom skin
