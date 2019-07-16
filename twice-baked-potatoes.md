@@ -1,4 +1,4 @@
-# Twice Baked Potato
+# Twice Baked Potatoes
 
 * 1 large russet potato, washed, scrubbed
 * 3/4 tbsp butter, 1/4 tbsp reserved
