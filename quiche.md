@@ -8,6 +8,14 @@
 * salt
 * pepper
 
+## Fillings
+
+* mushroom
+* roasted garlic
+* asparagus
+* spinach
+* shaved brussels sprouts
+
 1. Preheat oven to 375°F
 1. In a large bowl, whisk eggs, half-and-half, spices
 1. Stir cheeses and caramelized onion
