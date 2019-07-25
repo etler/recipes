@@ -1,12 +1,12 @@
 # Crispy Baked Tofu
 
 * 1 block extra-firm tofu, diced
-* 1 tbsp olive oil
-* 1 tbsp soy sauce
-* 1 tbsp cornstarch
-* garlic powder
-* onion powder
-* nutritional yeast
+* 2 tbsp olive oil
+* 2 tbsp soy sauce
+* 2 tbsp cornstarch
+* 2 tbsp nutritional yeast
+* 1 tbps garlic powder
+* 1 tbsp onion powder
 * salt
 * pepper
 
