@@ -4,6 +4,7 @@
 * 1 cup half and half
 * \~4 oz cheese, (smoked Gouda/cheddar/Parmesan/etc)
 * [1 caramelized onion](./carmelized-onions)
+* [roasted garlic](./roasted-garlic)
 * 1 pie crust
 * salt
 * pepper
@@ -11,7 +12,6 @@
 ## Fillings
 
 * mushroom
-* roasted garlic
 * asparagus
 * spinach
 * shaved brussels sprouts
