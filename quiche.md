@@ -21,4 +21,11 @@
 1. Stir cheeses and caramelized onion
 1. Pour filling into pie crust, bake on baking sheet 40-45 minutes
 
+## Potato Skin Quiche
+
+* [twice baked potatoes](./twice-baked-potatoes.md)
+
+1. Make potato skins from twice baked potato recipe, reserve insides for other use
+1. Fill skins with egg filling and bake 40-45 minutes
+
 [source](https://spicysouthernkitchen.com/easy-ham-and-cheese-quiche/)
