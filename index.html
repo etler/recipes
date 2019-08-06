@@ -52,7 +52,7 @@
         filter = filter.toLowerCase()
         return (file) => {
           const filePath = file.path;
-          const fileName = filePath.replace('.md', '').toLowerCase();
+          const fileName = filePath.replace('.md', '').toLowerCase().replace(/-/g, '');
           const isMarkdown = (/.md$/).test(filePath);
           const isNotLicense = filePath !== 'LICENSE.md';
           const isInFilter = filter.split(' ')
@@ -69,6 +69,9 @@
         for (wordIndex = 0; wordIndex < fileWords.length; wordIndex++) {
           letterPosition = fileWords[wordIndex].indexOf(filter)
           if (letterPosition > -1) break;
+        }
+        if (letterPosition < 0) {
+          letterPosition = 100;
         }
         return wordIndex + letterPosition * 100;
       }
