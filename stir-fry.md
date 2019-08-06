@@ -22,6 +22,7 @@
 * 1/2 tsp corn starch
 * 1/2 tbsp water
 * 1/2 tbsp shaoxing wine
+* pinch msg
 * pinch white pepper
 * vegetables
 
