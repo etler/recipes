@@ -1,6 +1,6 @@
 # Tofu Parmesan
 
-* 1 block firm tofu
+* 1 block firm tofu, sliced into 6
 * 2 eggs
 * 1 tbsp flour
 * 1/2 cup bread crumbs
@@ -13,8 +13,8 @@
 * salt
 * pepper
 
-1. Drain and press tofu cut into 4 slabs
-1. Preheat oven to 400 degrees
+1. Drain and press tofu
+1. Preheat oven to 400°F
 1. Mix bread crumbs with Parmesan and spices and seasoning
 1. Preheat skillet with oil to pan fry
 1. Dust tofu lightly with flour
