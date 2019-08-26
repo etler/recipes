@@ -4,7 +4,7 @@
 * 2 eggs
 * 1 tbsp flour
 * 1/2 cup bread crumbs
-* 1/2 cup Parmesan (1 oz)
+* 1 oz Parmesan
 * 2 oz mozzarella
 * 1/2 jar marinara
 * vegetable oil
