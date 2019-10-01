@@ -2,8 +2,8 @@
 
 * 2 tbsp butter
 * 1 cups long grain rice
-* 1 1/2 cups water or light broth
-* 1 tsp salt
+* 1 1/2 cups broth
+* 2 tsp salt
 * 1 tsp saffron
 * chives
 * pepper
