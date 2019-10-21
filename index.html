@@ -119,7 +119,9 @@
         search_input.addEventListener('input', (event) => {
           updateList(data, event.target.value);
         })
-        search_input.focus()
+        document.addEventListener('keypress', (event) => {
+          search_input.focus()
+        })
       })()
       // Register service worker
       if (navigator.serviceWorker && !navigator.serviceWorker.controller) {
