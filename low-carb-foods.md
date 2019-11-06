@@ -20,3 +20,8 @@
 * fat head pizza: https://www.ditchthecarbs.com/fat-head-pizza/
 * cauliflower fried rice
 * coconut flour waffles: https://www.ditchthecarbs.com/keto-waffles/
+* stuffed bell pepper
+* low carb tortilla enchilada
+* tofu Parmesan sub bread crumbs for ground almond
+* roasted veggies
+* acorn squash
