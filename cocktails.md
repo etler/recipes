@@ -41,6 +41,15 @@
 
 ## Rum
 
+### Caipirinha
+
+* 2 oz cachaça
+* 1/2 lime, sliced
+* 2 tsp sugar
+
+1. Muddle lime with sugar
+1. Add ice cubes and cachaça, stir
+
 ### Thai Mojito
 
 * lemongrass, muddled
