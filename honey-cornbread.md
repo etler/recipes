@@ -21,3 +21,5 @@
 1. Remove the cast iron skillet from the oven and grease the bottom and sides with reserved butter
 1. Pour the batter into cast iron, place at back of the over. Bake 28-32 minutes until toothpick comes out clean and has no wobble. Top should be golden brown and cornbread should pull away from the edges of the pan
 1. Remove from the oven and let cool for 5-10 minutes. Top with butter and honey
+
+[source](https://thefoodcharlatan.com/sweet-and-moist-honey-cornbread/)
