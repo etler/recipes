@@ -3,6 +3,7 @@
 * 1 tbsp miso paste
 * 1 tbsp rice vinegar
 * 1 tbsp maple syrup
+* 1/2 lb salmon
 * hot sauce
 
 1. Apply miso glaze over salmon
