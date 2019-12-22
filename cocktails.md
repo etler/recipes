@@ -39,6 +39,14 @@
 
 [source](https://www.roohsf.com/)
 
+### Chai Toddy
+
+* 2 shots bourbon
+* 1/2 shot simple syrup
+* chai tea
+* chocolate bitters
+* cardamom bitters
+
 ## Rum
 
 ### Caipirinha
