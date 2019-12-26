@@ -10,6 +10,7 @@
 * 1/2 cup Baby Shitake mushroom
 * Sage, Bay Leaves, etc
 * 1/2 tsp salt
+* 1/2 tsp saffron
 * Reduced balsamic
 
 1. Prepare stock and keep hot, but not boiling, add herbs
@@ -18,7 +19,7 @@
 1. Add 1/2 cup broth, stir until evaporated
 1. Add rice, stir until toasted
 1. Add wine, stir until absorbed
-1. Add 1 cups broth, stir until absorbed and can see bottom of pan
+1. Add 1 cups broth and saffron, stir until absorbed and can see bottom of pan
 1. Repeat
 1. Add 1/2 cup broth, or more if still not done
 1. Add 2 tbsp butter and then cheese until done
