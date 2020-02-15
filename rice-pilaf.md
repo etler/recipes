@@ -10,6 +10,17 @@
 * chives
 * pepper
 
+## Stove Top Method
+
+1. Soften saffron in small bowl hot water
+1. Rinse rice until water runs clear
+1. Melt butter in sauce pan, sauté chives, add rice and stir frequently until opaque. ~3 minutes
+1. Add water saffron and salt, bring to boil, stir, cover with lid
+1. Reduce heat to low and simmer ~20 minutes
+1. Remove from heat, place towel over pan and cover with lid
+
+## Oven Method
+
 1. Preheat oven to 350°F
 1. Melt butter in sauce pan, sauté chives and shallot, add rice and stir frequently until opaque. ~3 minutes
 1. Add rice to casserole pan
