@@ -15,6 +15,7 @@
 
 1. In a large pot add bouillon cube to water, cook pasta, drain and set aside.
 1. Cook garlic shrimp and reserve sauce. Add greens to sauce until barely wilted, then combine with pasta, butter and Parmesan
+1. Add water to sauce to thin if needed, add back in shrimp
 1. Season with herbs, spices and lemon juice to taste
 
 [source](https://therecipecritic.com/lemon-garlic-parmesan-shrimp-pasta/)

@@ -17,7 +17,6 @@
 1. Toss in pan, cook evenly another minute
 1. Add garlic and chili flakes, cook another minute, tossing and stirring
 1. Add lemon juice and caper mixture, 1 quarter of butter and half of parsley. Turn heat to low after butter melts
-1. Add remaining butter and allow to melt, add seasoning to taste, remove shrimp
-1. Add water to sauce to thin if needed, add sauce on top of shrimp
+1. Add remaining butter and allow to melt, add seasoning to taste
 
 [source](https://foodwishes.blogspot.com/2012/02/garlic-shrimp-not-necessarily-in-that.html)
