@@ -1,14 +1,14 @@
 # Shrimp Scampi
 
 * 8 ounces Linguine Pasta
+* 1/2 lb large shrimp
+* 4 cups leafy greens, roughly chopped
+* 1 oz Parmesan cheese, grated
 * 1 Bouillon Cube
 * 2 tbsp olive oil
 * 6 tbsp butter
 * 4 cloves garlic, minced
 * 1 teaspoon red pepper flakes
-* 1 lb large shrimp
-* 4 cups leafy greens, roughly chopped
-* 1 oz Parmesan cheese
 * 1 tbsp lemon juice
 * italian seasoning
 * parsley
