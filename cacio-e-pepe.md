@@ -1,11 +1,12 @@
 # Cacio e Pepe
 
 * 4 oz tagliolini or spaghetti
-* 1.5 oz Parmesan or Pecorino Romano (3/4 cup grated)
+* 1 cup Parmesan or Pecorino Romano, finely grated
 * 1 tbsp butter
 * 1 tsp ground black pepper
 * salt
 * 3/4 cups pasta water reserved
+* 3/4 cup Parmesan or Pecorino Romano, grated (optional)
 
 1. Boil pasta in well-salted water and strain about three minutes before it's fully cooked, reserve 3/4 cups of the pasta water
 1. Add fresh cracked pepper, then butter, then reserved pasta water to a large saucepan
