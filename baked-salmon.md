@@ -1,6 +1,9 @@
 # Baked Salmon
 
-* Salmon
+* salmon
+* olive oil
+* salt
+* pepper
 
 1. Preheat oven with foil lined baking sheet to 500°F
 1. Pat salmon dry with paper towel, if uneven thickness, cut half of thin side and place under to get even thickness
