@@ -1,13 +1,12 @@
 # Maple Brussels Sprouts
 
-* 1 lb brussels sprouts
-* 2 tbsp olive oil
+* brussels sprouts
+* olive oil
 * salt
 * pepper
-* 2 tbsp maple syrup
+* maple syrup
 
-1. Preheat oven to 375°F
-1. Prepare brussels sprouts and toss with olive oil and spices
-1. Cook 15 minutes face down on baking tray
-1. Flip and cook 15 more minutes
-1. Move to baking dish and toss with maple syrup, cook 15 more minutes
+1. Place brussels sprouts on well oiled cast iron skillet, cover with olive oil
+1. Turn heat to high and cover for 5 minutes until starting to brown
+1. Remove cover and cook for 3-5 more minutes until fully browned
+1. Toss brussels with rest of ingredients
