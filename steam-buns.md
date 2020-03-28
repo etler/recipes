@@ -4,18 +4,18 @@
 
 * 2g active dry yeast
 * 125g warm water, plus additional as needed
-* 250g all-purpose flour, 11% protein ideally
+* 250g flour (11% protein)
 * 5g granulated sugar
-* 1 teaspoon kosher salt
+* 1 tsp kosher salt
 
 1. Add sugar and yeast to water, thoroughly dissolve
-1. Slowly add to flower while stirring, aim for dry patches, bring to clumpy consistency, add additional water if needed
+1. Slowly add water to flour in mixing bowl while stirring, aim for dry patches, bring to clumpy consistency, add additional water if needed
 1. Knead dough for 8 minutes until smooth
 1. Shape into ball pulling creases together
-1. Put in large bowl, cover and set aside for 90 minutes until double in size
+1. Put in large bowl, cover and set aside for 90 minutes until doubled in size
 1. Flour dough and punch out air from dough
 1. Flour working surface and spread out dough, sprinkle sticky parts with additional flour
-1. Roll out dough into a large sheet, roll up, then portion into 8 pieces (48g each)
+1. Roll out dough into a large sheet, roll up into log, then portion into 8 pieces (48g each)
 1. Press each piece down into flat square, fold each corner together into ball one at a time
 1. Pinch crease together and twist
 1. Sprinkle ball with additional flour, then roll into circles, use light pressure on rolling pin going in, then more pressure going out, leave center slightly thicker
