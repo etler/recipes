@@ -19,5 +19,5 @@
 1. Preheat oven to 350°F
 1. Saute sausage and peppers, let cool
 1. Combine all ingredients, season generously
-1. Line cupcake tin with wonton wrappers, spoon in 2 tbsp of mixture in each
-1. Bake for 20 minutes until eggs are set
+1. Line cupcake tin with wonton wrappers, spoon in 2 tbsp of mixture in each. If not using wontons, spray tin with spray oil and fill 3/4th the way up
+1. Bake for 20 minutes with wontons until eggs are set or 15 minutes if not using wontons
