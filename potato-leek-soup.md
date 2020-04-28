@@ -1,6 +1,6 @@
 # Potato Leek Soup
 
-* 1 lbs leeks, chopped
+* 1 lbs leeks (\~3 leeks), chopped
 * 3 tbsp butter
 * 1/2 tsp salt
 * 12 oz potatoes, cut in eighths

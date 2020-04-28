@@ -1,6 +1,6 @@
 # Stuffing
 
-* 1 1/4 lbs Italian or French bread, diced
+* 1 1/4 lbs Sourdough or French bread, diced
 * 1/2 stick butter
 * 4 sage sausages, diced
 * 1 (350g) large onion, finely chopped
