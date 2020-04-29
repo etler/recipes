@@ -1,6 +1,6 @@
 # Egg Cups
 
-* 6 eggs (optionally use egg whites for half)
+* 6 eggs (optionally use half egg whites, 150g)
 * 1 cup half and half or milk
 * 3 oz cheese
 * 1 sausage
