@@ -20,5 +20,5 @@
 1. Preheat oven to 350°F
 1. Saute onion, sausage, peppers and mushrooms, let cool
 1. Combine all ingredients, season generously
-1. Spray tin with spray oil and fill 3/4th the way up. If using wonton wrappers, line tin with wontons and spoon in 2 tbsp of mixture in each
-1. Bake for 20 minutes with wontons until eggs are set
+1. Spray muffin tin with spray oil and fill 3/4th the way up. If using wonton wrappers, line tin with wontons and spoon in 2 tbsp of mixture in each
+1. Place directly on the rack. Bake for 15-20 minutes with until eggs are set and puffed up
