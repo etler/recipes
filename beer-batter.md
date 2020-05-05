@@ -1,9 +1,10 @@
 # Beer Batter
 
 * 1 cup all-purpose flour
-* 1 1/4 tsp baking powder
+* 1/4 tsp baking powder
 * 2 tablespoons rice flour or cornstarch or potato starch
 * 1 cup cheap beer
+* 1 tsp mustard
 * salt
 * pepper
 * garlic powder
