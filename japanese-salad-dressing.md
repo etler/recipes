@@ -10,3 +10,14 @@
 * ginger, grated
 
 1. Combine all ingredients and add mayo until desired consistency
+
+## Salad ingredients
+
+* iceberg lettuce
+* carrots
+* tomato
+* cucumber
+* radish
+* avocado
+* orange
+* sesame seeds
