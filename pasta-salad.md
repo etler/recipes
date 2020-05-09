@@ -22,7 +22,7 @@
 * Parsley
 
 ## Carbonara style
-* 3 1 hour cured eggs
+* [3 1-hour cured egg yolks](./cured-egg-yolk)
 
 ## Greek Style
 * 1/8 cup Olives
