@@ -14,5 +14,6 @@
 * 1 tbsp sugar
 * 1/2 tbsp kosher salt
 
-1. Cook washed rice
-1. Microwave other ingredients for 30 seconds. Fold with rice thoroughly until coated
+1. Rinse rice 2-3 times
+1. Cook rice and let stand covered for 10 minutes
+1. Microwave other ingredients for 30 seconds. Fold with rice until thoroughly coated
