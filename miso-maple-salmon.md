@@ -1,7 +1,7 @@
 # Miso Maple Salmon
 
 * 1 tbsp miso paste
-* 1 tbsp rice vinegar
+* 1 tbsp apple cider vinegar or rice vinegar
 * 1 tbsp maple syrup
 * 1/2 lb salmon fillet
 * hot sauce
