@@ -1,10 +1,10 @@
 # Salsa
 
 * 8 oz tomatoes or tomatillos
-* 1 fresh pepper, any type
+* 1-2 fresh pepper, any type
 * 1 dried chili, any type
 * 2 cloves garlic, unpeeled
-* 1/4 onion, any type
+* 1/2 onion, any type
 * salt
 * lime juice (optional)
 * cilantro (optional)
