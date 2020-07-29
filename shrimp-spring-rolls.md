@@ -19,8 +19,9 @@
 * Basil
 * Mint
 * Cilantro
-* Carrots
 * Cucumber
+* Carrots
+* Daikon Radish
 * Leafy Greens
 * Micro Greens
 * Rice noodles
@@ -28,6 +29,7 @@
 * lime juice
 * fish sauce
 
+1. Quick pickle carrots and daikon radish (optional)
 1. Cook rice noodles in leftover shrimp water, then toss with sesame oil, lime juice, and fish sauce
 1. Dampen working plate
 1. Dip wrappers in warm water for 1-2 seconds
