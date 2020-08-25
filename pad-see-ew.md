@@ -9,8 +9,8 @@
 * 1 tbsp oyster sauce
 * 1 tbsp water
 * 1 tsp sugar
+* 1 tsp fish sauce
 * 1/2 tsp rice vinegar
-* 1/2 tsp fish sauce
 * 1/2 tsp 5 spice
 * white pepper
 

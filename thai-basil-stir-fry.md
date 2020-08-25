@@ -17,3 +17,5 @@
 1. Heat wok dry until smoking, add oil and sauté veggies until charred, put aside
 1. Reheat wok, add additional oil and sauté protein until cooked
 1. On medium heat, add oil, sauté garlic and jalapeño 30 seconds, add sauce mixture and cook, add corn starch slurry, add back in veggies, protein, and herbs. Toss until basil is wilted.
+
+[source](https://shopsmart.guide/recipes/recipe-fish-in-thai-basil-sauce/)

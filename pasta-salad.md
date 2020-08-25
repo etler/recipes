@@ -19,6 +19,7 @@
 ## Standard style
 * 1 blanched broccoli
 * 2 tbsp mustard
+* 2-4 tbsp mayonnaise
 * Parsley
 
 ## Carbonara style
