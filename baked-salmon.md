@@ -6,7 +6,7 @@
 * pepper
 * honey (optional)
 
-1. salt salmon and let rest in refrigerator for 1 hour
+1. Brine salmon in a 6% salt mixture (6g salt per 100g water) for 15 minutes
 1. Preheat oven with foil lined baking sheet to 500°F
 1. Pat salmon dry with paper towel (optional, brush with honey)
 1. Rub with olive oil and season heavily with salt and pepper, or apply alternate glaze if applicable
