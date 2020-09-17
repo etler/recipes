@@ -24,6 +24,7 @@
 
 ## Carbonara style
 * [3 1-hour cured egg yolks](./cured-egg-yolk)
+* 2 oz Parmesan cheese
 
 ## Greek Style
 * 1/8 cup Olives
