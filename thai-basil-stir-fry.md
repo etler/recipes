@@ -1,10 +1,10 @@
 # Thai Basil Stir Fry
 
-* 1 tsp soy sauce
-* 1 tsp fish sauce
-* 1 tsp oyster sauce
-* 1 tsp sugar
-* 1 tsp corn starch
+* 1/2 tbsp soy sauce
+* 1/2 tbsp fish sauce
+* 1/2 tbsp oyster sauce
+* 1/2 tbsp sugar
+* 1/2 tbsp corn starch
 * 1/4 onion, chopped
 * 1/2 bell pepper, chopped
 * 1/4 head broccoli
