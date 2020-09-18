@@ -2,7 +2,7 @@
 
 * Shrimp with shell
 * Corn starch
-* Ginger
+* Garlic
 * Five-spice powder
 * Salt
 * MSG
