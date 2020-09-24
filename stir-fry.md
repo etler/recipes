@@ -1,3 +1,12 @@
+# Technique
+
+* Blanch or par cook thick vegetables before adding to wok
+* Get pan smoking hot before adding oil then ingredients
+* Do not over crowd the wok
+* Toss ingredients liberally
+* Add sauce to oil directly on the pan with ingredients pushed to the side or bare on medium heat
+* Use blow torch while tossing to get smoky flavor
+
 # Garlic Sauce
 
 * 3 cloves garlic, crushed in mortar and pestle
@@ -15,7 +24,22 @@
 1. Add aromatics and stir for 15 seconds then add broccoli and sauce right after
 1. Fry for another 15-45 seconds then remove
 
+# Oyster Sauce Stir-Fry
+
+* 1 1/2 tbsp oyster sauce
+* 1/2 tbsp soy sauce
+* 1 tbsp broth or water
+* 1/2 tsp sugar
+* 1/4 tsp white pepper
+* 6 cloves garlic, mortar and pestled
+* thick greens
+
+1. Cook garlic in oil until fragrant. Add stems, cook for 1 minute. Add leaves then sauce and, cook until just wilted. Toss to coat
+
+[source](https://www.youtube.com/watch?v=sMD9H-FByO8)
+
 # Ginger Sauce
+
 * 1 inch ginger, crushed in mortar and pestle
 * 1/4 tsp salt
 * 1/2 tsp sugar
