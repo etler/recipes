@@ -1,6 +1,6 @@
 # Ramen Eggs
 
-* eggs, hardoiled
+* eggs, hardboiled
 * soy sauce
 * mirin
 * water

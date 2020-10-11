@@ -2,7 +2,7 @@
 
 * 4 oz spaghetti, dry
 * 1 tbsp butter
-* 6 cloves garlic, microplaned
+* 6 cloves garlic, microplaned then mortar and pestled
 * 1/2 tbsp oyster sauce
 * 1 tsp soy sauce or Maggi seasoning
 * 1 tsp fish sauce
