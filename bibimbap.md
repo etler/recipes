@@ -2,6 +2,7 @@
 
 * Teriyaki Sauteed Mushrooms
 * Soft fried egg
+* Deep fried egg yolk
 * Asian pickles
 * Tofu
 * Kimchi
