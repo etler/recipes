@@ -15,7 +15,7 @@
 * 1/4 tsp sugar
 * 1/2 tsp corn starch
 * pinch msg
-* 1 tbsp water
+* 2 tbsp water
 * vegetables
 
 1. Combine salt, sugar, cornstarch, msg, and water into a slurry
@@ -57,3 +57,40 @@
 1. Add veggies for about 15 seconds, then add ginger sauce
 
 [source](https://www.youtube.com/watch?v=a-Yu8qOAEYQ)
+
+
+# Ketchup Sauce
+
+* 1 tbsp butter
+* 1 tbsp sugar
+* 1 tbsp soy sauce
+* 1 tbsp oyster sauce
+* 4 tbsp ketchup
+* 4 tbsp water
+* cornstarch slurry
+
+1. Add butter to protein and veggies
+1. Combine and add sugar, soy sauce, oyster sauce, ketchup, and water mixture, simmer to cook through
+1. Add corn starch slurry to thicken
+
+[source](https://www.youtube.com/watch?v=zMDr2EMPqZU)
+
+# Thai Basil Sauce
+
+* 5 thai chili, ground
+* 5 cloves garlic, ground
+* 1 tbsp oyster sauce
+* 1 tbsp soy sauce
+* 1 tbsp fish sauce
+* 1/2 tbsp dark soy sauce
+* 1/2 tbsp sugar
+* 2 tbsp water
+* thai basil
+
+1. Combine sauces and set aside
+1. Grind thai chili and garlic into a paste in mortar and pestle
+1. Saute garlic chili paste in oil until garlic begins to turn golden
+1. Add sauce to cook then protein and vegetables
+1. Remove from heat and stir in thai basil
+
+[source](https://hotthaikitchen.com/holy-basil-stir-fry/)
