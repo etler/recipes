@@ -1,6 +1,6 @@
 # MSG Noodles
 
-* 3 oz dry alkaline noodles (or ramen noodles)
+* 3 oz dry alkaline noodles or ramen noodles (5 oz fresh)
 * 3/4 tsp msg
 * 1 tbsp chili oil
 * 1 tbsp pickled mustard greens
