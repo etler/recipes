@@ -20,3 +20,10 @@
 * 5 spice
 * Sesame oil
 * Ginger
+
+## Shrimp filling
+
+* 1 part shrimp, chopped
+* 1 part egg, scrambled
+* 2 part garlic chives, chopped
+* salt
