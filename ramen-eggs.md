@@ -4,6 +4,7 @@
 * soy sauce
 * mirin
 * water
+* grated ginger
 
 1. Place peeled egg in container with cover and add equal parts soy sauce, mirin, and water until covered
 1. Marinate in refrigerator for 30 minutes to several days.
