@@ -5,9 +5,9 @@
 * 1 tsp mirin
 * 1 tsp sugar
 * 1/4 cup mayo
-* orange juice
+* 1/4 cup orange juice
+* 1 inch ginger, juiced
 * dash sesame oil
-* ginger, grated
 
 1. Combine all ingredients and add mayo until desired consistency
 
