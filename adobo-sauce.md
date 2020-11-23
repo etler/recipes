@@ -18,7 +18,7 @@
 * 1 tsp pepper, ground
 * salt
 
-1. Toast chilis in olive oil medium heat, 30 seconds. Add onion, garlic, and ginger, toss to combine. Add tomatoes and broth and other ingredients. Bring to a simmer, cook 30 minutes
+1. Toast chilis in olive oil medium heat, 30 seconds. Add onion, garlic, and ginger, toss to combine. Add tomatoes and broth and other ingredients. Bring to a simmer, cook 1-4 hours
 1. Turn off heat blend with immersion blender until very smooth
 
 [source](https://www.allrecipes.com/recipe/282066/beef-birria/)
