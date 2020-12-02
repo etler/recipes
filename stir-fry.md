@@ -30,10 +30,10 @@
 * 2 tbsp sake
 * 2 tbsp soy sauce
 * 2 tbsp sugar
-* corn starch
+* potato starch
 
 1. Grate ginger and squeeze out juice. Combine ginger juice, sake, soy sauce, and sugar
-1. Lightly dust proteins in corn starch and pan fry in oil until partially cooked
+1. Lightly dust proteins in potato starch and pan fry in oil until partially cooked
 1. Remove protein, add sauce and bring to boil, add protein back in and flip until well glazed and sauce is thickened
 
 # Oyster Sauce Stir-Fry
