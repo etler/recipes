@@ -24,18 +24,6 @@
 1. Add aromatics and stir for 15 seconds then add broccoli and sauce right after
 1. Fry for another 15-45 seconds then remove
 
-# Teriyaki Sauce
-
-* 1 knob ginger, juiced
-* 2 tbsp sake
-* 2 tbsp soy sauce
-* 2 tbsp sugar
-* potato starch
-
-1. Grate ginger and squeeze out juice. Combine ginger juice, sake, soy sauce, and sugar
-1. Lightly dust proteins in potato starch and pan fry in oil until partially cooked
-1. Remove protein, add sauce and bring to boil, add protein back in and flip until well glazed and sauce is thickened
-
 # Oyster Sauce Stir-Fry
 
 * 1 1/2 tbsp oyster sauce
