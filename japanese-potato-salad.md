@@ -11,6 +11,7 @@
 * 1/2 tsp salt
 * green onion or chives
 * white pepper
+* mustard (optional)
 
 1. Boil potatoes and carrots in salted water until tender, 20-25 minutes. Drain and spread out onto sheet tray in single layer.
 1. Sprinkle potatoes and carrots with rice vinegar and sugar while still hot then cool.
