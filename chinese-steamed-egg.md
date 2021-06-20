@@ -1,7 +1,7 @@
 # Chinese Steamed Egg (Ji Dan Geng)
 
 * 1 egg (100ml), room temperature
-* 2/3 cup water (150ml), pre-boiled, warm
+* 1/2 cup water, pre-boiled, warm
 * 1 pinch salt
 * sesame seed oil
 * soy sauce
