@@ -9,9 +9,11 @@
 * 1 tbsp rice vinegar
 * 2 tsp cane sugar
 * 1/2 tsp salt
+* green onion or chives
 * white pepper
 
-1. Boil potatoes and carrots until tender, 20-25 minutes. Drain and cool
-1. Combine dressing then add all other ingredients
+1. Boil potatoes and carrots in salted water until tender, 20-25 minutes. Drain and spread out onto sheet tray in single layer.
+1. Sprinkle potatoes and carrots with rice vinegar and sugar while still hot then cool.
+1. Combine remaining ingredients then add potatoes and carrots and mix.
 
 [source](https://norecipes.com/japanese-potato-salad/)
