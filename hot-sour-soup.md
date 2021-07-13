@@ -13,7 +13,7 @@
 * 1 tsp dark soy sauce
 * 1 tsp sugar
 * 1 tsp salt
-* 1-3 tsp white peppercorn, ground
+* 1/4-1 tsp white peppercorn, ground
 * 3 tbsp Chinkiang vinegar
 * 1 tsp sesame oil
 * cilantro
