@@ -1,14 +1,14 @@
 # Cheesecake
 
-* 150g graham cracker (15 half sheet squares), crushed
-* 2 tbsp butter, melted
-* 32oz cream cheese, room temperature
-* 1 1/2 cups sugar
-* 2 tbsp milk
-* 4 eggs
-* 1 cup sour cream
-* 1 tbsp vanilla extract
-* 2 tbsp flour
+- 150g Biscoff Cookie or graham cracker (15 half sheet squares), crushed
+- 2 tbsp butter, melted
+- 32oz cream cheese, room temperature
+- 1 1/2 cups sugar
+- 2 tbsp milk
+- 4 eggs
+- 1 cup crème fraîche or sour cream
+- 1 tbsp vanilla extract
+- 2 tbsp flour
 
 1. Leave cream cheese out overnight to allow to reach room temperature
 1. Preheat oven to 375°F. Grease 9" spring form pan
