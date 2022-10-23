@@ -1,10 +1,9 @@
 # Vegetarian Bean Chili
 
 * 3 whole sweet dried chilies like Costeño, New Mexico, or Choricero, stems and seeds removed
-* 1 small hot dried chilies like Arbol or Cascabel, stems and seeds removed (optional)
 * 3 whole rich fruity dried chilies like Ancho, Mulatto, Negro, or Pasilla, stems and seeds removed
 * 4 cups water
-* 2 whole chipotle chilies in adobo sauce with 2 tbsp sauce from can
+* 1 to 2 whole chipotle chilies in adobo sauce with 1 to 2 tbsp sauce from can
 * 2 (14-ounce) cans chickpeas
 * 2 (14-ounce) cans dark red kidney beans or black beans, drained, liquid reserved separately
 * 1 (28-ounce) can whole tomatoes in juice
