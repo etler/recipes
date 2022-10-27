@@ -1,4 +1,4 @@
-#Chinese Rice Porridge (Shi Fan)
+# Chinese Rice Porridge (Shi Fan)
 
 * 1 cup rice
 * 6 cups water
