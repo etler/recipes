@@ -1,4 +1,4 @@
-# Teriyaki Sauce
+# Gochujang Sauce
 
 * 1/2 to 1 tbsp gochujang
 * 2 tbsp maple syrup
