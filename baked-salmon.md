@@ -31,6 +31,12 @@
 * 1 pt maple syrup
 * hot sauce
 
+## Margarita
+* Agave syrup
+* Lime
+* Mezcal/repasado
+* Vinegar
+
 ## Teriyaki Salmon
 
 * [Teriyaki sauce recipe](./teriyaki-sauce)
