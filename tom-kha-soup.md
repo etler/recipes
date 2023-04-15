@@ -1,21 +1,22 @@
 # Tom Kha Soup
 
-* 2 1/2 cups stock
-* 2-inch piece of galangal (or ginger), peeled, half cut into slices, half cut into matchsticks
-* 2 stalks lemongrass, ends trimmed, tough outer leaves removed, cut into 1-inch pieces
-* 4 kaffir lime leaves (or lime zest), crumpled by hand
-* 13.5 ounce can coconut milk
-* 1/2 block tofu
-* 1/4 lbs straw mushrooms (or shiitake), ends removed, sliced
-* 1 carrot (optional)
-* 1/2 sweet potato (optional)
-* 1 tbsp fish sauce
-* 1 tbsp fresh lime juice
-* 4 hot red chilis (or 1/4 tsp red thai curry paste), trimmed, smashed with a knife
-* fresh cilantro leaves and stems
+* 2 cups stock
+* 1 1/2 cups coconut milk, boxed
+* 1 tsp kosher salt
+* 1 stalk lemongrass, bottom half, smashed with back of knife, cut into 2-inch pieces
+* 12 slices galangal, thinly sliced
+* 5 makrut lime leaves, roughly torn
+* 1-2 thai chilies, bruised, cut into large pieces
+* 2 tbsp fish sauce
+* 1 tsp finely chopped palm sugar
+* 6 oz oyster mushrooms
+* 1 block tofu
+* 2 1/2 tbsp lime juice
+* green onion
+* cilantro
 
-1. Combine stock, galangal slices, lemongrass, and lime leaf in a medium saucepan. Bring to simmer over medium heat, reduce heat and simmer for 10 minutes. Discard the galangal and lemongrass
-2. Add coconut milk and increase heat to medium. Add tofu, mushrooms, galangal matchsticks, and lime leaves. Cook until the tofu is completely cooked and the mushrooms are tender, about 5 minutes
-3. Add fish sauce, lime juice, and red chiles. Remove from heat, garnish with cilantro. Adjust flavor with lime juice or fish sauce if needed
+1. Bring stock to a boil, add coconut milk, lemongrass, galangal, makrut lime leaves, chilies, half of the fish sauce, and sugar. Simmer for 5 minutes.
+1. Add mushrooms, simmer for 1-2 minutes.
+1. Add fish sauce to taste. Turn off the heat, add 2 tbsp of the lime juice to taste. Garnish with green onions and cilantro.
 
-[source](https://www.seriouseats.com/recipes/2012/10/tom-kha-gai-with-mushrooms-recipe.html)
+[source](https://hot-thai-kitchen.com/tom-ka-gai/)
