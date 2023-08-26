@@ -1,10 +1,10 @@
 # Cold Soba Noodles
 
-* 1 cup dashi
-* 1/3 cup light soy sauce
-* 1/3 cup mirin
-* 1/4 teaspoon sugar
-* 6 oz soba
+* 1/3 cup dashi
+* 2 tbsp light soy sauce
+* 2 tbsp cup mirin
+* 1/8 tsp sugar
+* 2 oz soba
 * green onion
 
 1. Bring dashi, soy sauce, mirin, and sugar to a boil, remove from heat and cool.
