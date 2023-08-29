@@ -9,6 +9,7 @@
 - 1 tbsp flour
 - 1/2 cup crème fraîche or sour cream
 - 1 tbsp vanilla extract
+- Lemon zest
 
 1. Leave cream cheese out overnight to allow to reach room temperature.
 1. Preheat oven to 375°F. Grease 9" spring form pan.
