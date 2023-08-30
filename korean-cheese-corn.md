@@ -5,8 +5,9 @@
 * 1/2 tsp sugar
 * 1/4 tsp garlic powder
 * 1/4 cup + 1/8 cup low-moisture mozzarella
-* salt
+* japanese pepper
 * pepper
+* salt
 
 1. Preheat oven to 400°F
 1. Combine ingredients in small oven safe dish reserving extra mozzarella to top.
