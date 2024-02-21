@@ -4,7 +4,7 @@
 * 1 block tofu
 * 1 bunch green onions
 * 1 tsp cumin
-* 1 tsp thai red curry paste
+* 1-3 tbsp thai yellow curry paste
 * 2 tbsp tomato paste
 * 1 can (15 oz) coconut milk
 * 1 rounded tbsp brown sugar
